@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="90" started-at="2020-07-31T23:16:21Z" finished-at="2020-07-31T23:16:21Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="90" started-at="2020-07-31T23:16:21Z" finished-at="2020-07-31T23:16:21Z">
+      <class name="com.busyqa.batch16.uitests.Batch16uiTest.AppTest">
+        <test-method status="PASS" signature="shouldAnswerWithTrue()[pri:0, instance:shouldAnswerWithTrue(com.busyqa.batch16.uitests.Batch16uiTest.AppTest)]" name="shouldAnswerWithTrue" duration-ms="5" started-at="2020-07-31T19:16:21Z" finished-at="2020-07-31T19:16:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldAnswerWithTrue -->
+      </class> <!-- com.busyqa.batch16.uitests.Batch16uiTest.AppTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

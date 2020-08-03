@@ -1,0 +1,18 @@
+2020-07-30 18:31:14,180 - com.busyqa.batch16.uitests.Batch16uiTest.TC02_Login -INFO - User name for the TC 2 is: admin123
+2020-07-30 18:31:14,180 [main] INFO com.busyqa.batch16.uitests.Batch16uiTest.TC02_Login - User name for the TC 2 is: admin123
+2020-07-30 18:31:14,184 - com.busyqa.batch16.uitests.Batch16uiTest.TC02_Login -INFO - Password for the TC 2 is: admin
+2020-07-30 18:31:14,184 [main] INFO com.busyqa.batch16.uitests.Batch16uiTest.TC02_Login - Password for the TC 2 is: admin
+2020-07-30 19:10:06,738 - com.busyqa.batch16.uitests.Batch16uiTest.TC01_Login -INFO - User name for the TC 1 is: admin
+2020-07-30 19:10:06,738 [main] INFO com.busyqa.batch16.uitests.Batch16uiTest.TC01_Login - User name for the TC 1 is: admin
+2020-07-30 19:10:06,747 - com.busyqa.batch16.uitests.Batch16uiTest.TC01_Login -INFO - Password for the TC 1 is: admin
+2020-07-30 19:10:06,747 [main] INFO com.busyqa.batch16.uitests.Batch16uiTest.TC01_Login - Password for the TC 1 is: admin
+2020-07-30 19:10:28,524 - com.busyqa.batch16.uitest.pageClasses.LoginPage1 -INFO - Time taken in seconds Without cache 20
+2020-07-30 19:10:28,524 [main] INFO com.busyqa.batch16.uitest.pageClasses.LoginPage1 - Time taken in seconds Without cache 20
+2020-07-30 19:10:37,831 - com.busyqa.batch16.uitest.pageClasses.LoginPage1 -INFO - Time taken in seconds With cache 9
+2020-07-30 19:10:37,831 [main] INFO com.busyqa.batch16.uitest.pageClasses.LoginPage1 - Time taken in seconds With cache 9
+2020-07-30 19:10:37,831 - com.busyqa.batch16.uitests.Batch16uiTest.TC01_Login -INFO - Invalid credentials
+2020-07-30 19:10:37,831 [main] INFO com.busyqa.batch16.uitests.Batch16uiTest.TC01_Login - Invalid credentials
+2020-07-30 19:14:07,452 - com.busyqa.batch16.uitests.Batch16uiTest.TC01_Login -INFO - User name for the TC 1 is: admin
+2020-07-30 19:14:07,452 [main] INFO com.busyqa.batch16.uitests.Batch16uiTest.TC01_Login - User name for the TC 1 is: admin
+2020-07-30 19:14:07,458 - com.busyqa.batch16.uitests.Batch16uiTest.TC01_Login -INFO - Password for the TC 1 is: admin
+2020-07-30 19:14:07,458 [main] INFO com.busyqa.batch16.uitests.Batch16uiTest.TC01_Login - Password for the TC 1 is: admin
